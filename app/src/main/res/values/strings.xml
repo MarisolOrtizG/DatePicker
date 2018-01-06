@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DatePicker</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="init_text">Neurobin Date Picker Example</string>
+    <string name="hello_blank_fragment">Hola date picker</string>
+</resources>
